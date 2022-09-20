@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/administrator/Projects/AppContainer/AppContainerExtension/AppContainerExtension.csproj": {}
+  },
+  "projects": {
+    "/Users/administrator/Projects/AppContainer/AppContainerExtension/AppContainerExtension.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/administrator/Projects/AppContainer/AppContainerExtension/AppContainerExtension.csproj",
+        "projectName": "AppContainerExtension",
+        "projectPath": "/Users/administrator/Projects/AppContainer/AppContainerExtension/AppContainerExtension.csproj",
+        "packagesPath": "/Users/administrator/.nuget/packages/",
+        "outputPath": "/Users/administrator/Projects/AppContainer/AppContainerExtension/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/Users/administrator/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-ios"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/PhilipsMA/_packaging/PatientMonitoring%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-ios15.4": {
+            "targetAlias": "net6.0-ios",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-ios15.4": {
+          "targetAlias": "net6.0-ios",
+          "dependencies": {
+            "System.Runtime.InteropServices.NFloat.Internal": {
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.iOS": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "iossimulator-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

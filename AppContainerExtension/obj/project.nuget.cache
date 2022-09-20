@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3drXR6y31xx61DmwBITokJ8X0MSruj5uyy3aJKIcg/X90FCfYKAbWJz0/O1jr/LALewGb3sAvnooFpDYXmPgg==",
+  "success": true,
+  "projectFilePath": "/Users/administrator/Projects/AppContainer/AppContainerExtension/AppContainerExtension.csproj",
+  "expectedPackageFiles": [
+    "/Users/administrator/.nuget/packages/system.runtime.interopservices.nfloat.internal/6.0.1/system.runtime.interopservices.nfloat.internal.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

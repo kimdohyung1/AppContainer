@@ -1,0 +1,13 @@
+/Users/administrator/Projects/AppContainer/AppContainerExtension/bin/Debug/net6.0-ios/ios-arm64/publish/../AppContainerExtension.appex/icudt.dat
+/Users/administrator/Projects/AppContainer/AppContainerExtension/bin/Debug/net6.0-ios/ios-arm64/publish/../AppContainerExtension.appex/AppContainerExtension.dll
+/Users/administrator/Projects/AppContainer/AppContainerExtension/bin/Debug/net6.0-ios/ios-arm64/publish/../AppContainerExtension.appex/System.Runtime.InteropServices.dll
+/Users/administrator/Projects/AppContainer/AppContainerExtension/bin/Debug/net6.0-ios/ios-arm64/publish/../AppContainerExtension.appex/System.Runtime.dll
+/Users/administrator/Projects/AppContainer/AppContainerExtension/bin/Debug/net6.0-ios/ios-arm64/publish/../AppContainerExtension.appex/System.Private.CoreLib.dll
+/Users/administrator/Projects/AppContainer/AppContainerExtension/bin/Debug/net6.0-ios/ios-arm64/publish/../AppContainerExtension.appex/Microsoft.iOS.dll
+/Users/administrator/Projects/AppContainer/AppContainerExtension/bin/Debug/net6.0-ios/ios-arm64/publish/../AppContainerExtension.appex/AppContainerExtension.pdb
+/Users/administrator/Projects/AppContainer/AppContainerExtension/bin/Debug/net6.0-ios/ios-arm64/publish/../AppContainerExtension.appex/AppContainerExtension.aotdata.arm64
+/Users/administrator/Projects/AppContainer/AppContainerExtension/bin/Debug/net6.0-ios/ios-arm64/publish/../AppContainerExtension.appex/System.Runtime.InteropServices.aotdata.arm64
+/Users/administrator/Projects/AppContainer/AppContainerExtension/bin/Debug/net6.0-ios/ios-arm64/publish/../AppContainerExtension.appex/System.Runtime.aotdata.arm64
+/Users/administrator/Projects/AppContainer/AppContainerExtension/bin/Debug/net6.0-ios/ios-arm64/publish/../AppContainerExtension.appex/System.Private.CoreLib.aotdata.arm64
+/Users/administrator/Projects/AppContainer/AppContainerExtension/bin/Debug/net6.0-ios/ios-arm64/publish/../AppContainerExtension.appex/Microsoft.iOS.aotdata.arm64
+/Users/administrator/Projects/AppContainer/AppContainerExtension/bin/Debug/net6.0-ios/ios-arm64/publish/../AppContainerExtension.appex///AppContainerExtension

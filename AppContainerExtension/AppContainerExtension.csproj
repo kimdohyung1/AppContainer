@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFrameworks>net6.0-ios</TargetFrameworks>
+		<OutputType>Library</OutputType>
+		<ApplicationId>com.dohyung.AppContainer.AppContainerExtension</ApplicationId>
+		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+		<ApplicationVersion>1</ApplicationVersion>
+	</PropertyGroup>
+	<PropertyGroup>
+		<IsAppExtension>true</IsAppExtension>
+		<IsWatchExtension>false</IsWatchExtension>
+	</PropertyGroup>
+</Project>

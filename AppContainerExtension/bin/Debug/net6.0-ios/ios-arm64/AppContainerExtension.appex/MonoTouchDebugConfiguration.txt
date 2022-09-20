@@ -1,0 +1,16 @@
+IP: 10.0.0.128
+IP: fe80::1429:5c88:ba38:9e8%11
+IP: 2601:192:4a00:3370::9a0f
+IP: 2601:192:4a00:3370:c8b:b5bc:c6eb:f3b9
+IP: fe80::882b:76ff:fe15:cc02%4
+IP: fe80::882b:76ff:fe15:cc01%5
+IP: 2601:192:4a00:3370:14e1:c311:1255:6320
+IP: fe80::d8c4:f6ff:fefe:b3eb%13
+IP: fe80::d8c4:f6ff:fefe:b3eb%14
+IP: fe80::9b7:cf70:a39a:198c%15
+IP: fe80::4b1c:8a97:77a6:f8a4%16
+IP: fe80::ce81:b1c:bd2c:69e%17
+IP: fe80::371:dfa3:9340:d059%18
+IP: fe80::9542:eafd:7518:eb9a%26
+IP: fe80::fd3e:3826:486c:eff8%27
+Port: 10000

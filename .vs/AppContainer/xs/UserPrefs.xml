@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3B4ACAFF-3D13-46E0-87CD-381D8DCEB3FA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.AppContainer PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.65DD7C1F-85BE-4BDE-A44C-E80986458103" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppContainerExtension/AppContainerExtension.csproj">
+    <Files>
+      <File FileName="AppContainer/AppContainer.csproj" Line="20" Column="18" />
+      <File FileName="AppContainerExtension/AppContainerExtension.csproj" Line="6" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppContainer" expanded="True">
+            <Node name="AppContainer" expanded="True" />
+            <Node name="AppContainerExtension" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.65DD7C1F-85BE-4BDE-A44C-E80986458103" />
+</Properties>
